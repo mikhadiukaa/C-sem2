@@ -1,0 +1,3 @@
+C:/Users/ammih/CLionProjects/C-sem2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ammih/CLionProjects/C-sem2/cmake-build-debug/CMakeFiles/C_sem2.dir
+C:/Users/ammih/CLionProjects/C-sem2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
